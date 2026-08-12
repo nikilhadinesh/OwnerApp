@@ -1,0 +1,16 @@
+export const darkColors = {
+  background: '#0B0B0F',
+  surface: '#17171C',
+  card: '#1E1E24',
+  text: '#F5F5F7',
+  textSecondary: '#9C9CA8',
+  border: '#2A2A32',
+  primary: '#E10600',
+  primaryLight: '#FF4B42',
+  success: '#22C55E',
+  warning: '#FFC53D',
+  danger: '#FF5252',
+  onAccent: '#FFFFFF',
+  tabBarBackground: '#111116',
+  statusBar: 'light-content',
+};

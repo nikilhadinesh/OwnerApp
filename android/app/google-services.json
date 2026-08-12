@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060897147341",
+    "project_id": "trackownerapp",
+    "storage_bucket": "trackownerapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060897147341:android:91f11dcad375d58cb05c84",
+        "android_client_info": {
+          "package_name": "com.trackownerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBokW3UzsyV1rZ5SmTZ4X35ygSCbK1G6To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
